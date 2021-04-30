@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ExamenMvcCoreAlexGM.Models
 {
-    [Table("COCHES")]
+    [Table("coches")]
     public class Coche
     {
         [Key]
